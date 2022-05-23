@@ -2,6 +2,8 @@
 
 1-Add training data "vehicles and non-vehicles" folders inside the folder "data"
 
+2-Test data are already in data folder so you can copy the image/video path directly from there
+
 ## Steps to run the code
 1-Run the main file
 
