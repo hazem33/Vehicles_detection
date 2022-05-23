@@ -3,16 +3,17 @@
 1-Add training data "vehicles and non-vehicles" folders inside the folder "data"
 
 ## Steps to run the code
+1-Run the main file
 
-1-Choose 0 for normal mode, 1 for debugging mode
+2-Choose 0 for normal mode, 1 for debugging mode
 
-2-For debugging mode only, close the window of the shown stage image so that the next stage window opens
+3-For debugging mode only, close the window of the shown stage image so that the next stage window opens
 
-3-Wait for the training stage to complete (it takes about 2-3 mins)
+4-Wait for the training stage to complete (it takes about 2-3 mins)
 
-4-Enter the image / video path to be processed (also output file name, destination in case of video)  
+5-Enter the image / video path to be processed (also output file name, destination in case of video)  
 
-5-In case of video wait for the output to finish processing, while in case of image output image will be shown directly
+6-In case of video wait for the output to finish processing, while in case of image output image will be shown directly
 
 
 ## Vehicle Detection Project
