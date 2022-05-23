@@ -2,8 +2,6 @@
 
 1-Add training data "vehicles and non-vehicles" folders inside the folder "data"
 
-2-Test data are already in data folder so you can copy the image/video path directly from there
-
 ## Steps to run the code
 1-Run the main file
 
@@ -14,6 +12,8 @@
 4-Wait for the training stage to complete (it takes about 2-3 mins)
 
 5-Enter the image / video path to be processed (also output file name, destination in case of video)  
+
+Note: Test data are already in data folder so you can copy the image/video path directly from there
 
 6-In case of video wait for the output to finish processing, while in case of image output image will be shown directly
 
