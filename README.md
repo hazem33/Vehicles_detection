@@ -1,3 +1,7 @@
+## Important note
+
+-Result video is already available in Results/output_videos
+
 ## Steps before running the code
 
 1-Add training data "vehicles and non-vehicles" folders inside the folder "data"
